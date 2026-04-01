@@ -9,6 +9,7 @@ import { ToastContainer } from 'react-toastify';
 import Started from './Components/Body/Started/Started'
 import PremiumCard from './Components/Body/premiumCard/PremiumCard'
 import WorkFlow from './Components/Body/Started/workFlow'
+import Footer from './Components/Footer/Footer'
 
 
 
@@ -27,6 +28,7 @@ function App() {
       <Started></Started>
       <PremiumCard  />
       <WorkFlow></WorkFlow>
+      <Footer></Footer>
 
 
       <ToastContainer />
