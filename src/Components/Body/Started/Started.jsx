@@ -28,8 +28,8 @@ const Started = () => {
                 <h1 className='text-5xl font-extrabold'>Get Started in 3 Steps</h1>
                 <p className='text-black/50'>Start using premium digital tools in minutes, not hours.</p>
             </div>
-            <div className='mt-10 container mx-auto '>
-                <div className='flex flex-wrap justify-center gap-10 w-11/12 mx-auto'>
+            <div className='mt-10 lg:container mx-auto '>
+                <div className='flex flex-wrap justify-center gap-10'>
                     {
                         startedData.map((data, index) => {
                             return (
