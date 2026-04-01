@@ -10,10 +10,10 @@ const PremiumCard = () => {
                 <p className='text-black/60 mt-2'>Choose the plan that fits your needs. Upgrade or downgrade anytime.</p>
             </div>
 
-            <div className='flex container mx-auto justify-between w-11/12 mt-10'>
+            <div className='flex flex-wrap justify-center gap-10 container mx-auto w-11/12 mt-10'>
 
                 {/* card 1 */}
-                <div className="card w-96 bg-base-200 shadow-sm ">
+                <div className="card w-96 bg-base-200 shadow-sm transition-all duration-300 ease-in-out hover:-translate-y-3">
                     <div className="card-body">
                         
                         <div className="space-y-2">
@@ -50,7 +50,7 @@ const PremiumCard = () => {
 
                 
                 {/* card 2 */}
-                <div className="card w-96 bg-linear-to-r from-[#4f39f6] to-[#9514fa] text-white shadow-sm ">
+                <div className="card w-96 bg-linear-to-r from-[#4f39f6] to-[#9514fa] text-white shadow-sm transition-all duration-300 ease-in-out hover:-translate-y-3">
                     <div className="card-body">
                         
                         <div className="space-y-2">
@@ -95,7 +95,7 @@ const PremiumCard = () => {
                 </div>
 
                 {/* card 3 */}
-                <div className="card w-96 bg-base-200 shadow-sm ">
+                <div className="card w-96 bg-base-200 shadow-sm transition-all duration-300 ease-in-out hover:-translate-y-3">
                     <div className="card-body">
                         
                         <div className="space-y-2">

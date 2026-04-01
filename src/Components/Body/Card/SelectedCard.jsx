@@ -44,7 +44,7 @@ const SelectedCard = ({setSelectedCard, selectCard}) => {
                             return(
                                 <div key={index} className='bg-base-300'>
                                     <div className='flex justify-between items-center px-10 py-5'>
-                                        <div className='flex gap-4'>
+                                        <div className='flex items-center gap-4'>
                                             <div>
                                                 <img src={iconImg} alt="" />
                                             </div>

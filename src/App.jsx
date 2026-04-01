@@ -25,7 +25,7 @@ function App() {
       <Hero /> 
       <Status /> 
       <CardContainer fetchCardData={fetchCardData} setSelectedCard={setSelectedCard} selectCard={selectCard} /> 
-      <Started></Started>
+      <Started  selectCard={selectCard}></Started>
       <PremiumCard  />
       <WorkFlow></WorkFlow>
       <Footer></Footer>

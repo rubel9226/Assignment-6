@@ -27,7 +27,7 @@ const Card = ({ data, selectCard, setSelectedCard }) => {
 
   return (
     <div>
-        <div className="card w-96 bg-base-100 shadow-sm border-2 border-black/5 flex flex-col">
+        <div className="card w-96 bg-base-100 shadow-sm border-2 border-black/5 transition-all duration-300 ease-in-out hover:-translate-y-3 hover:shadow-xl hover:bg-indigo-100">
             <div className="card-body flex flex-col gap-4">
                 <div className="flex justify-between items-center">
                     <div className="w-15 h-15 border border-black/20 rounded-full flex items-center justify-center">
@@ -36,7 +36,7 @@ const Card = ({ data, selectCard, setSelectedCard }) => {
                     <span className={`px-4 py-1.5 rounded-full font-medium ${
                     tag === 'best seller' ? 'bg-[#FEF3C6] text-[#BB4D00]' 
                     : tag === 'popular' ? 'bg-[#E1E7FF] text-[#7127F8]' 
-                        : tag === 'new' ? 'bg-[#DBFCE7] text-[#0A883E]' : 'text-bold'}`}>{tag}</span>
+                        : tag === 'new' ? 'bg-[#DBFCE7] text-[#083E]' : 'text-bold'}`}>{tag}</span>
                 </div>
                 <div className="flex flex-col">
                     <h2 className="text-2xl font-bold">{name}</h2>

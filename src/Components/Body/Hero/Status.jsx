@@ -2,7 +2,7 @@ import React from 'react';
 
 const Status = () => {
     return (
-        <div className='w-full p-20 bg-linear-to-r from-[#4F39F6] to-[#9514FA] '>
+        <div className='w-full p-20 bg-linear-to-r from-[#4F39F6] to-[#9514FA]'>
             
             <div className=' container mx-auto xl:px-30'>            
                 <div className="flex w-full flex-col lg:flex-row justify-between">

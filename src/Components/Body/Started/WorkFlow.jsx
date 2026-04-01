@@ -10,8 +10,8 @@ const WorkFlow = () => {
 
             <div className='mt-10 space-y-4'>
                 <div className='flex gap-4 justify-center'>
-                    <button className="btn rounded-full text-[#7c21f9] bg-white">Explore Products</button>
-                    <button className="btn rounded-full btn-outline text-white hover:text-[#7c21f9] ">View Pricing</button>
+                    <button className="btn rounded-full text-[#7c21f9] bg-white transition-all duration-200 ease-in-out hover:-translate-y-1">Explore Products</button>
+                    <button className="btn rounded-full btn-outline text-white hover:text-[#7c21f9] transition-all duration-200 ease-in-out hover:-translate-y-1">View Pricing</button>
                 </div>
                 <p className='text-gray-300'>14-day free trial • No credit card required • Cancel anytime</p>
             </div>
