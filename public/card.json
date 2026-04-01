@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "AI Writing Pro",
+    "description": "Generate high-quality using advanced AI tools.",
+    "price": 19,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Unlimited content", "SEO optimization", "50+ templates"],
+    "iconImg": "https://i.ibb.co.com/4ZXtThJd/writing-2327400-1.png"
+  },
+  {
+    "id": 2,
+    "name": "Design Templates Pack",
+    "description": "Modern UI/UX templates for web and mobile apps.",
+    "price": 49,
+    "period": "one-time",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["200+ templates", "Figma support", "Customizable"],
+    "iconImg": "https://i.ibb.co.com/fYHnxqkb/design-tool-2062942-1.png"
+  },
+  {
+    "id": 3,
+    "name": "Premium Stock Assets",
+    "description": "Access high-quality images, videos, and icons.",
+    "price": 29,
+    "period": "monthly",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["1M+ assets", "4K quality", "No watermark"],
+    "iconImg": "https://i.ibb.co.com/84DfcTCr/camera-8775444-1.png"
+  },
+  {
+    "id": 4,
+    "name": "Automation Toolkit",
+    "description": "Automate workflows and save time.",
+    "price": 15,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Task automation", "API integration", "Scheduler"],
+    "iconImg": "https://i.ibb.co.com/nNJwx1c5/operation-11826522-1.png"
+  },
+  {
+    "id": 5,
+    "name": "Resume Builder Pro",
+    "description": "Create ATS-friendly resumes easily.",
+    "price": 9,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["100+ templates", "PDF export", "Live preview"],
+    "iconImg": "https://i.ibb.co.com/qLwhQc33/portfolio-1153845-1.png"
+  },
+  {
+    "id": 6,
+    "name": "Social Media Booster",
+    "description": "Grow your social media presence.",
+    "price": 12,
+    "period": "one-time",
+    "tag": "new",
+    "tagType": "new",
+    "features": ["Post scheduler", "Analytics", "Auto hashtags"],
+    "iconImg": "https://i.ibb.co.com/WNK9tRJS/social-media-2065203-1.png"
+  },
+  {
+    "id": 7,
+    "name": "Email Marketing Suite",
+    "description": "Create and manage email campaigns.",
+    "price": 25,
+    "period": "monthly",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Email templates", "Automation", "Tracking"],
+    "iconImg": "https://i.ibb.co.com/fYHnxqkb/design-tool-2062942-1.png"
+  },
+  {
+    "id": 8,
+    "name": "Video Editing Pro",
+    "description": "Edit videos with professional tools.",
+    "price": 35,
+    "period": "monthly",
+    "tag": "best seller",
+    "tagType": "best seller",
+    "features": ["4K editing", "Effects", "Fast rendering"],
+    "iconImg": "https://i.ibb.co.com/nNJwx1c5/operation-11826522-1.png"
+  },
+  {
+    "id": 9,
+    "name": "Website Builder",
+    "description": "Build responsive websites without coding.",
+    "price": 20,
+    "period": "one-time",
+    "tag": "popular",
+    "tagType": "popular",
+    "features": ["Drag & drop", "Responsive", "SEO ready"],
+    "iconImg": "https://i.ibb.co.com/qLwhQc33/portfolio-1153845-1.png"
+  }
+]
