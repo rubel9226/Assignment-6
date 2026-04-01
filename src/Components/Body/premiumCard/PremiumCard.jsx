@@ -51,7 +51,13 @@ const PremiumCard = () => {
                 
                 {/* card 2 */}
                 <div className="card w-96 bg-linear-to-r from-[#4f39f6] to-[#9514fa] text-white shadow-sm transition-all duration-300 ease-in-out hover:-translate-y-3">
-                    <div className="card-body">
+                    <div className="card-body relative">
+                        <div className=' absolute right-0 -top-3 w-full '>
+
+                            <div className=''>
+                                <p className=' mx-auto w-35 bg-amber-100 font-bold text-amber-500 text-center px-2 py-1 rounded-full'>Most Popular</p>
+                            </div>
+                        </div>
                         
                         <div className="space-y-2">
                             <h2 className="text-3xl font-bold">Pro</h2>
