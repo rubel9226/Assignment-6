@@ -53,7 +53,7 @@ const Footer = () => {
                 <hr className='text-gray-800' />
                 <div className='mt-8 flex justify-between'>
                     <aside>
-                        <p>Copyright © {new Date().getFullYear()} - All right reserved by ACME Industries Ltd</p>
+                        <p>Copyright © {new Date().getFullYear()} - All right reserved by MD RUBEL HOSSEN</p>
                     </aside>
 
                     <div className='space-x-4 capitalize'>
